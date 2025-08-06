@@ -1,0 +1,91 @@
+Balance sheet:
+2024-06-30    2023-06-30    2022-06-30    2021-06-30
+Ordinary Shares Number                                  7.434139e+09  7.432000e+09  7.464000e+09  7.519000e+09
+Share Issued                                            7.434139e+09  7.432000e+09  7.464000e+09  7.519000e+09
+Net Debt                                                3.331500e+10  1.253300e+10  3.585000e+10  4.392200e+10
+Total Debt                                              6.712700e+10  5.996500e+10  6.127000e+10  6.777500e+10
+Tangible Book Value                                     1.216600e+11  1.289710e+11  8.772000e+10  8.447700e+10
+Invested Capital                                        3.201070e+11  2.534600e+11  2.163230e+11  2.001340e+11
+Working Capital                                         3.444800e+10  8.010800e+10  7.460200e+10  9.574900e+10
+Net Tangible Assets                                     1.216600e+11  1.289710e+11  8.772000e+10  8.447700e+10
+Capital Lease Obligations                               1.549700e+10  1.272800e+10  1.148900e+10  9.629000e+09
+Common Stock Equity                                     2.684770e+11  2.062230e+11  1.665420e+11  1.419880e+11
+Total Capitalization                                    3.111650e+11  2.482130e+11  2.135740e+11  1.920620e+11
+Total Equity Gross Minority Interest                    2.684770e+11  2.062230e+11  1.665420e+11  1.419880e+11
+Stockholders Equity                                     2.684770e+11  2.062230e+11  1.665420e+11  1.419880e+11
+Gains Losses Not Affecting Retained Earnings           -5.590000e+09 -6.343000e+09 -4.678000e+09  1.822000e+09
+Other Equity Adjustments                               -5.590000e+09 -6.343000e+09 -4.678000e+09  1.822000e+09
+Retained Earnings                                       1.731440e+11  1.188480e+11  8.428100e+10  5.705500e+10
+Capital Stock                                           1.009230e+11  9.371800e+10  8.693900e+10  8.311100e+10
+Common Stock                                            1.009230e+11  9.371800e+10  8.693900e+10  8.311100e+10
+Total Liabilities Net Minority Interest                 2.436860e+11  2.057530e+11  1.982980e+11  1.917910e+11
+Total Non Current Liabilities Net Minority Interest     1.184000e+11  1.016040e+11  1.032160e+11  1.031340e+11
+Other Non Current Liabilities                           2.706400e+10  1.798100e+10  1.552600e+10  1.342700e+10
+Tradeand Other Payables Non Current                     2.793100e+10  2.556000e+10  2.606900e+10  2.719000e+10
+Non Current Deferred Liabilities                        5.220000e+09  3.345000e+09  3.100000e+09  2.814000e+09
+Non Current Deferred Revenue                            2.602000e+09  2.912000e+09  2.870000e+09  2.616000e+09
+Non Current Deferred Taxes Liabilities                  2.618000e+09  4.330000e+08  2.300000e+08  1.980000e+08
+Long Term Debt And Capital Lease Obligation             5.818500e+10  5.471800e+10  5.852100e+10  5.970300e+10
+Long Term Capital Lease Obligation                      1.549700e+10  1.272800e+10  1.148900e+10  9.629000e+09
+Long Term Debt                                          4.268800e+10  4.199000e+10  4.703200e+10  5.007400e+10
+Current Liabilities                                     1.252860e+11  1.041490e+11  9.508200e+10  8.865700e+10
+Other Current Liabilities                               1.918500e+10  1.474500e+10  1.306700e+10  1.166600e+10
+Current Deferred Liabilities                            5.758200e+10  5.090100e+10  4.553800e+10  4.152500e+10
+Current Deferred Revenue                                5.758200e+10  5.090100e+10  4.553800e+10  4.152500e+10
+Current Debt And Capital Lease Obligation               8.942000e+09  5.247000e+09  2.749000e+09  8.072000e+09
+Current Debt                                            8.942000e+09  5.247000e+09  2.749000e+09  8.072000e+09
+Other Current Borrowings                                2.249000e+09  5.247000e+09           NaN           NaN
+Commercial Paper                                        6.693000e+09  0.000000e+00           NaN           NaN
+Pensionand Other Post Retirement Benefit Plans Current  1.256400e+10  1.100900e+10  1.066100e+10  1.005700e+10
+Payables And Accrued Expenses                           2.701300e+10  2.224700e+10  2.306700e+10  1.733700e+10
+Payables                                                2.701300e+10  2.224700e+10  2.306700e+10  1.733700e+10
+Total Tax Payable                                       5.017000e+09  4.152000e+09  4.067000e+09  2.174000e+09
+Income Tax Payable                                      5.017000e+09  4.152000e+09  4.067000e+09  2.174000e+09
+Accounts Payable                                        2.199600e+10  1.809500e+10  1.900000e+10  1.516300e+10
+Total Assets                                            5.121630e+11  4.119760e+11  3.648400e+11  3.337790e+11
+Total Non Current Assets                                3.524290e+11  2.277190e+11  1.951560e+11  1.493730e+11
+Other Non Current Assets                                3.646000e+10  3.060100e+10  2.189700e+10  1.507500e+10
+Financial Assets                                        0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00
+Investments And Advances                                1.460000e+10  9.879000e+09  6.891000e+09  5.984000e+09
+Investmentin Financial Assets                           1.500000e+09  0.000000e+00  0.000000e+00  0.000000e+00
+Available For Sale Securities                           1.500000e+09           NaN           NaN           NaN
+Long Term Equity Investment                             1.310000e+10  9.879000e+09  6.891000e+09  5.984000e+09
+Goodwill And Other Intangible Assets                    1.468170e+11  7.725200e+10  7.882200e+10  5.751100e+10
+Other Intangible Assets                                 2.759700e+10  9.366000e+09  1.129800e+10  7.800000e+09
+Goodwill                                                1.192200e+11  6.788600e+10  6.752400e+10  4.971100e+10
+Net PPE                                                 1.545520e+11  1.099870e+11  8.754600e+10  7.080300e+10
+Accumulated Depreciation                               -7.642100e+10 -6.825100e+10 -5.966000e+10 -5.135100e+10
+Gross PPE                                               2.309730e+11  1.782380e+11  1.472060e+11  1.221540e+11
+Leases                                                  9.594000e+09  8.537000e+09  7.819000e+09  6.884000e+09
+Other Properties                                        1.896100e+10  1.434600e+10  1.314800e+10  1.108800e+10
+Machinery Furniture Equipment                           1.003120e+11  8.120700e+10  6.649100e+10  5.659400e+10
+Buildings And Improvements                              9.394300e+10  6.846500e+10  5.501400e+10  4.392800e+10
+Land And Improvements                                   8.163000e+09  5.683000e+09  4.734000e+09  3.660000e+09
+Properties                                              0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00
+Current Assets                                          1.597340e+11  1.842570e+11  1.696840e+11  1.844060e+11
+Other Current Assets                                    2.602100e+10  2.180700e+10  1.692400e+10  1.339300e+10
+Hedging Assets Current                                  1.200000e+07  6.000000e+06  8.000000e+06  7.800000e+07
+Inventory                                               1.246000e+09  2.500000e+09  3.742000e+09  2.636000e+09
+Finished Goods                                          8.450000e+08  1.768000e+09  2.516000e+09  1.367000e+09
+Work In Process                                         7.000000e+06  2.300000e+07  8.200000e+07  7.900000e+07
+Raw Materials                                           3.940000e+08  7.090000e+08  1.144000e+09  1.190000e+09
+Receivables                                             5.692400e+10  4.868800e+10  4.426100e+10  3.804300e+10
+Accounts Receivable                                     5.692400e+10  4.868800e+10  4.426100e+10  3.804300e+10
+Allowance For Doubtful Accounts Receivable             -8.300000e+08 -6.500000e+08 -6.330000e+08 -7.510000e+08
+Gross Accounts Receivable                               5.775400e+10  4.933800e+10  4.489400e+10  3.879400e+10
+Cash Cash Equivalents And Short Term Investments        7.553100e+10  1.112560e+11  1.047490e+11  1.302560e+11
+Other Short Term Investments                            5.721600e+10  7.655200e+10  9.081800e+10  1.160320e+11
+Cash And Cash Equivalents                               1.831500e+10  3.470400e+10  1.393100e+10  1.422400e+10
+Cash Equivalents                                        6.744000e+09  2.622600e+10  5.673000e+09  6.952000e+09
+Cash Financial                                          1.157100e+10  8.478000e+09  8.258000e+09  7.272000e+09
+
+Resource: Failed to retrieve data: 401
+
+Instruction: 
+Delve into a detailed scrutiny of the company's balance sheet for the most recent fiscal year, pinpointing 
+the structure of assets, liabilities, and shareholders' equity to decode the firm's financial stability and 
+operational efficiency. Focus on evaluating the liquidity through current assets versus current liabilities, 
+the solvency via long-term debt ratios, and the equity position to gauge long-term investment potential. 
+Contrast these metrics with previous years' data to highlight financial trends, improvements, or deteriorations. 
+Finalize with a strategic assessment of the company's financial leverage, asset management, and capital structure, 
+providing insights into its fiscal health and future prospects in a single paragraph. Less than 130 words.
