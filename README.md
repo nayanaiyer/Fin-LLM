@@ -19,7 +19,7 @@ This notebook generates a full **PDF annual report** from a 10-K form by coordin
 1. Clone the repository:
    ```bash
    git clone https://github.com/nayanaiyer/Fin-LLM.git
-   cd FinRobot
+   cd Fin-LLM
    ```
 
 2. Install dependencies
