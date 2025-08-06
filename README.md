@@ -1,4 +1,4 @@
-# FinRobot: Financial AI Agents for Automated Equity Research
+# FinRobot: Financial AI Agents
 
 This repository contains two notebooks built on top of **FinRobot**, an open-source multi-agent framework for automating financial analysis and equity research using LLMs.
 
