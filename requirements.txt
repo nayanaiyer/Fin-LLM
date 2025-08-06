@@ -1,0 +1,43 @@
+pyautogen==0.9
+ipython
+huggingface_hub
+matplotlib
+
+# financial libraries
+finnhub-python
+yfinance
+mplfinance
+backtrader
+sec_api
+
+# data handling
+numpy
+pandas
+pyPDF2
+reportlab
+pyautogen[retrievechat]
+
+# packaging
+setuptools
+wheel
+
+# historical data
+praw
+tushare
+pandas_datareader
+
+pdfkit
+marker-pdf
+pandas
+aiohttp
+langchain
+nltk
+numpy
+ratelimit
+Requests
+scikit_learn
+starlette
+tenacity
+tqdm
+typing_extensions
+unstructured
